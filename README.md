@@ -2,6 +2,6 @@
 
 this is a test
 
-## introduction
+## Introduction
 
 example **introduction** test case
