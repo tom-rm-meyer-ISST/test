@@ -3,6 +3,9 @@
 this is a test
 
 ## Introduction
+
+example **introduction** test case
+
 __Hello PURIS Team,__
 
 nice to work with you in the future!
