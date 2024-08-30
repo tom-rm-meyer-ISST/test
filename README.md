@@ -24,4 +24,4 @@ Lukas
 
 |Name|Company|Mail|
 |-|-|-|
-Lukas|Henkel|lukas.schmetz@henkel.com|
+|Lukas|Henkel|lukas.schmetz@henkel.com|
